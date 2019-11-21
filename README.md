@@ -1,4 +1,4 @@
-# CSE231-OS-Merkle-Tree
+# Merkle-Tree
 Got familiar with the Linux file system APIs by implementing a secure library (SecureFS) on top
 of the existing file system interfaces that raises the alarm if the integrity of the
 files created through the secure library APIs is compromised. At the high-level,
